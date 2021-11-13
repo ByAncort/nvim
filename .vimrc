@@ -28,9 +28,9 @@ highlight Normal ctermbg=black
 set laststatus=2
 
 "CursorLine Underline
-set cursorline
-:hi clear CursorLine
-:hi CursorLine gui=underline cterm=underline
+"set cursorline
+":hi clear CursorLine
+":hi CursorLine gui=underline cterm=underline
 
 let g:C_Ctrl_j = 'off'
 
