@@ -1,10 +1,14 @@
 call plug#begin('~/.config/nvim/.vim/plugged')
 
 " THEMES
-"Plug 'canop/patine'
-"Plug 'nanotech/jellybeans.vim'
-"Plug 'ackyshake/spacegray.vim'
-Plug 'morhetz/gruvbox'
+Plug 'thedenisnikulin/vim-cyberpunk'
+"Plug 'tiagovla/tokyodark.nvim'
+"Plug 'ghifarit53/tokyonight-vim'
+
+"plug python
+"Plug 'valloric/youcompleteme' 
+Plug 'vim-python/python-syntax'
+Plug 'VundleVim/Vundle.vim'
 
 "Syntax
 Plug 'sheerun/vim-polyglot'

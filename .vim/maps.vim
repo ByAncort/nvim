@@ -29,7 +29,7 @@ nmap <Leader>f :set filetype<CR>
 "nmap <Leader>x :!node %<CR>
 
 " Run current file with Python
-nmap <C-x> :!python %<CR>
+nmap <C-x> :!python3 %<CR>
 
 " Run current file with TS-Node
 nmap <Leader>s :!ts-node %<CR>

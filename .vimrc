@@ -18,16 +18,21 @@ so ~/.config/nvim/.vim/maps.vim
 so ~/.config/nvim/.vim/plugins.vim
 so ~/.config/nvim/.vim/configPlugins.vim
 
-"colorscheme patine 
-"colorscheme jellybeans
-let g:gruvbox_italic=1
-colorscheme gruvbox
-let g:gruvbox_contrast_dark="hard"
-let g:gruvbox_termcolors=16
+
 highlight Normal ctermbg=black
 set laststatus=2
 
-"CursorLine Underline
+"====theme-cyberpunk=====
+set termguicolors
+colorscheme silverhand
+let g:airline_theme='silverhand'
+
+"=====theme-newtokyo=====
+"let g:tokyonight_style = 'storm' " available: night, storm
+    "let g:tokyonight_enable_italic = 1
+    "colorscheme tokyonight       
+
+    "CursorLine Underline
 "set cursorline
 ":hi clear CursorLine
 ":hi CursorLine gui=underline cterm=underline
@@ -37,4 +42,4 @@ let g:C_Ctrl_j = 'off'
 "" *** SPACEGRAY COLORSCHEME AND CONFIG *** 
 "let g:spacegray_use_italics = 1
 ""let g:spacegray_low_contrast = 1
-"colorscheme spacegray
+c

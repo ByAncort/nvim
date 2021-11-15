@@ -25,7 +25,7 @@ let g:indentLine_conceallevel = 1
 "            \    'background': { 'guibg': '000000' },
 "            \}
 
-"   Lightlane
+   "Lightlan
 let g:lightline = {
             \ 'active': {
             \   'left': [['mode', 'paste'], [], ['relativepath', 'modified']],
@@ -43,9 +43,10 @@ let g:lightline = {
             \   'gitbranch': 'fugitive#head',
             \   'kitestatus': 'kite#statusline'
             \ },
-            \ 'colorscheme': 'gruvbox',
+            \ 'colorscheme': 'silverhand',
             \ 'subseparator': {
             \   'left': '',
             \   'right': ''
             \ }
             \}
+
