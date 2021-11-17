@@ -42,4 +42,4 @@ let g:C_Ctrl_j = 'off'
 "" *** SPACEGRAY COLORSCHEME AND CONFIG *** 
 "let g:spacegray_use_italics = 1
 ""let g:spacegray_low_contrast = 1
-c
+
