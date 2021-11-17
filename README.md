@@ -1,7 +1,7 @@
-# Neovim it's a fork of the best text editor of the galaxy, "VIM". 😅
+# My config nvim. wupi
 
-This is a message to me: "After to install Neovim in your computer, clone this repository on '.config' folder". 
+```python
+print ("hello world")
+```
 
-[Installing Neovim · neovim/neovim Wiki](https://github.com/neovim/neovim/wiki/Installing-Neovim)
-
-![https://media.giphy.com/media/10FwycrnAkpshW/giphy.gif?cid=ecf05e47pdcpe9zi07ueo2zznctrum1vn4kymm8u7z4puplp&rid=giphy.gif&ct=g](https://media.giphy.com/media/10FwycrnAkpshW/giphy.gif?cid=ecf05e47pdcpe9zi07ueo2zznctrum1vn4kymm8u7z4puplp&rid=giphy.gif&ct=g)
+![Screenshot_2021-11-17_18_43_17.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8a10952c-7be4-47db-9bb2-059a82d3bae8/Screenshot_2021-11-17_18_43_17.png)
