@@ -24,15 +24,15 @@ luego abrimos nvim e instalamos las plugins
 
 ```
 ## -Atajos de teclado
--guardar "ctrl + w"
+-Guardar "ctrl + w"
 
--cerrar "ctrl + q"
+-Cerrar "ctrl + q"
 
--abrir NERDtree "ctr + n"
+-Abrir NERDtree "ctr + n"
 
-"-si queres cambiar la configuracion la ruta es "
+"Si queres cambiar la configuracion la ruta es "
 
-nvim ~ .config/nvim/.vim/maps.vim
+ ~ .config/nvim/.vim/maps.vim
 ## Screenshots
 
 ![App Screenshot](https://lh3.googleusercontent.com/x_WvYorL7Pf4VqRVte7SGYpiLITfjYUqZmJAosWRP6OGHP52NE_0SnB8TODdajasCgnJbbrs6PlxEgw3t09NTvkHPwfxvvPAQBybCpeLQsRQYMbB_VeYouGy-aAoOKHP46SJbQ8gotdvrokw2smSY265E2518IzHAUjgSFMQL1LfoaCdMtnfXiifh3Ukd-YqRoAltkKUulWXa7CWNKnPLl8TYvw1ocZdN1Fx-2JTa3T_e4GDMJuzgemHVTb-PrGJKcauwldiQDpHi-qPiCy_fmzyBGSEPpU7d-S9DaSL22oKozZCbZukzs2rd_8aWAnIPl9JA41PACRl9AVUlVHQ-x-2IlW2X6_YT4rntvBE0YktmDL64CybrHaV1Y2CLiWw64T3VCB9mmoWyat7X9pvlQYtj3186UImhZiJeP0UEeU-TGf0_mv72Ep-QJTEZLQYdQt16-0M5sFpar2wZy9I1tud_mJ53UQGFPPEHBRkyyilKqX1vZplrQsaGEd0cQoac3w9PlOpy6ezpPFJFu6RVck-2FwlrPmDJIrMROORUi7_CsrPMbmVvFq5FJsut6LRVEXm1HvbG7HBpUV7BcT9mblKMqvMzufbrsOlarMC_gTGloF0iBuQnuq5xxiPmm74LLeqllRnDPWl6h2NvzsyhFlHBB-auaaW7UnALBR_4rOsmcU7eNj67X_-e4a6lXwg87XaSD8Ptt0F3_2Xst8sYGq1=w1107-h622-no?authuser=0)
