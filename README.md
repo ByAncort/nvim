@@ -1,5 +1,5 @@
 
-# My configuracion
+# Mi configuracion
 
 "Después de instalar Neovim en su computadora, clone este repositorio en la carpeta '.config' ".
  
