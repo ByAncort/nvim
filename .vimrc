@@ -27,6 +27,7 @@ set termguicolors
 colorscheme silverhand
 let g:airline_theme='silverhand'
 
+highlight Normal guibg=NONE ctermbg=NONE
 "=====theme-newtokyo=====
 "let g:tokyonight_style = 'storm' " available: night, storm
     "let g:tokyonight_enable_italic = 1
