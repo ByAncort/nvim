@@ -24,8 +24,9 @@ set laststatus=2
 
 "====theme-cyberpunk=====
 set termguicolors
-colorscheme silverhand
-let g:airline_theme='silverhand'
+colorscheme cyberpunk
+let g:airline_theme='cyberpunk' "variante del tema 'cyberpunk' 'silverhand'
+
 
 highlight Normal guibg=NONE ctermbg=NONE
 "=====theme-newtokyo=====
