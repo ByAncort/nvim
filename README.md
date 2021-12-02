@@ -38,5 +38,5 @@ luego abrimos nvim e instalamos las plugins
 
 
 
-![Screenshot-2021-12-01-23-19-04.png](https://i.postimg.cc/vHwTSCT2/Screenshot-2021-12-01-23-19-04.png)](https://postimg.cc/mhVTPXQ7)
+![Screenshot-2021-12-01-23-19-04.png](https://i.postimg.cc/vHwTSCT2/Screenshot-2021-12-01-23-19-04.png)
 
