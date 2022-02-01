@@ -2,7 +2,7 @@
 let mapleader=" "
 
 nmap <C-n> :NERDTreeFind<CR>
-nmap <C-w> :w<CR>
+nmap <C-s> :w<CR>
 nmap <C-q> :q<CR>
 nmap <Leader>p :Files<CR>
 nmap <Leader>ag :Ag<CR>

@@ -18,7 +18,6 @@ so ~/.config/nvim/.vim/maps.vim
 so ~/.config/nvim/.vim/plugins.vim
 so ~/.config/nvim/.vim/configPlugins.vim
 
-
 highlight Normal ctermbg=black
 set laststatus=2
 
